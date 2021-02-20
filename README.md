@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <li>💬 Ask me about <strong>Python, Java, Web Development, DataScience</strong></li>
 <li>🌱 I’m currently learning<strong>Data Structure And Algoritms, Machine Learning</strong></li>
 <li>📫 How to reach me:<a href="https://www.linkedin.com/in/narenderadonis/" target="_blank">Narender Yadav</a></li>
+  <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Narenderadonis&show_icons=true" alt="Narenderadonis">
  </p>
